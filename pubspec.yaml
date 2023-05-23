@@ -1,0 +1,14 @@
+name: kma_village_fcst_info_service
+version: 1.0.0
+repository: https://github.com/Beta5051/kma_village_fcst_info_service
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^0.13.6
+  xml: ^6.3.0
+  intl: ^0.18.1
+
+dev_dependencies:
+  lints: ^2.1.0
